@@ -1,0 +1,9 @@
+{"id":"L-1024","name":"Amanda Davis","vehicle":"2024 Subaru Outback Limited","source":"Walk-in","status":"Qualified","time":"3 days ago","followUp":"Friday 9:00 AM","createdAt":{"$$date":1775054343239},"_id":"6SffPQ1uXFpEZyRq"}
+{"id":"L-1021","name":"John Smith","vehicle":"2024 Ford F-150 XLT","source":"Phone","status":"In Progress","time":"5 hours ago","followUp":"Tomorrow 10:00 AM","createdAt":{"$$date":1775054343239},"_id":"JgugByxyk3b6CgAb"}
+{"id":"L-1023","name":"Michael Johnson","vehicle":"2024 BMW 3 Series M Sport","source":"Web","status":"Needs Follow-up","time":"2 days ago","followUp":"Overdue","createdAt":{"$$date":1775054343239},"_id":"PtOaBHBccslbSvG4"}
+{"id":"L-1020","name":"Sarah Connor","vehicle":"2024 Toyota Highlander XLE","source":"Web","status":"New","time":"2 hours ago","followUp":"Today 3:00 PM","createdAt":{"$$date":1775054343239},"_id":"ZXrqaTcKTKH6aZnO"}
+{"id":"L-1025","name":"Robert Williams","vehicle":"2024 Chevrolet Tahoe RST","source":"Phone","status":"New","time":"4 hours ago","followUp":"Today 5:00 PM","createdAt":{"$$date":1775054343239},"_id":"csAcKFbucExJmg27"}
+{"id":"L-1026","name":"Jennifer Taylor","vehicle":"2024 Tesla Model Y","source":"Web","status":"In Progress","time":"6 hours ago","followUp":"Tomorrow 11:30 AM","createdAt":{"$$date":1775054343239},"_id":"pB9DhNjIz0HAfrIt"}
+{"id":"L-1027","name":"Carlos Rodriguez","vehicle":"2024 Toyota Tacoma TRD","source":"Walk-in","status":"Contacted","time":"1 day ago","followUp":"Wednesday 1:00 PM","createdAt":{"$$date":1775054343239},"_id":"tcB9GWJSDSjMVNxS"}
+{"id":"L-1022","name":"Emily Chen","vehicle":"2024 Honda CR-V Hybrid","source":"Autotrader","status":"Contacted","time":"1 day ago","followUp":"Tomorrow 2:00 PM","createdAt":{"$$date":1775054343239},"_id":"ujLq9ypVHBqBn0EZ"}
+{"name":"John Doe","vehicle":"2024 Honda Accord","source":"Web","status":"New","followUp":"Today","id":"L-2971","createdAt":{"$$date":1775056532975},"_id":"yQ1d6i1VI9Zzz0gC"}

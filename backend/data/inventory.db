@@ -1,0 +1,11 @@
+{"id":"VIN-JN1TANT32U","make":"Infiniti","model":"QX60 Luxe AWD","year":2024,"status":"Delivered","expected":"Sep 15, 2024","orderType":"Customer","createdAt":{"$$date":1775054343236},"_id":"2JAM6EsoOBvdH178"}
+{"make":"","model":"Camry","year":"2025","orderType":"Customer","id":"VIN5672304196","status":"Delivered","expected":"TBD","createdAt":{"$$date":1775056443870},"_id":"7GO1MJNGZRzvA9KK"}
+{"id":"VIN-WBAJB9C55L","make":"BMW","model":"530i xDrive","year":2024,"status":"In Transit","expected":"Nov 10, 2024","orderType":"Stock","createdAt":{"$$date":1775054343236},"_id":"CMeTFs4zdmoEhoot"}
+{"id":"VIN-3MW5R7J06P","make":"Tesla","model":"Model 3 Long Range","year":2024,"status":"At Factory","expected":"Dec 15, 2024","orderType":"Customer","createdAt":{"$$date":1775054343236},"_id":"Cru6NWv7kpgJRQtb"}
+{"id":"VIN-5YJ3E1EA1P","make":"Tesla","model":"Model Y Performance","year":2024,"status":"Scheduled","expected":"Jan 08, 2025","orderType":"Stock","createdAt":{"$$date":1775054343236},"_id":"EOxNaNni6wcC07SO"}
+{"id":"VIN-2HGFC2F59M","make":"Honda","model":"Civic Touring","year":2024,"status":"At Factory","expected":"Nov 02, 2024","orderType":"Stock","createdAt":{"$$date":1775054343236},"_id":"MVqoSUUMle4IVkF3"}
+{"id":"VIN-5UXCR6C09R","make":"BMW","model":"X5 xDrive40i","year":2024,"status":"Scheduled","expected":"Dec 05, 2024","orderType":"Stock","createdAt":{"$$date":1775054343236},"_id":"VB6vL1jRBMtew73I"}
+{"id":"VIN-4T1G11AK8U","make":"Toyota","model":"Camry XSE V6","year":2024,"status":"Delivered","expected":"Sep 28, 2024","orderType":"Customer","createdAt":{"$$date":1775054343236},"_id":"lLmimTbCzX4us63c"}
+{"id":"VIN-1N4BL4BV5LC","make":"Nissan","model":"Altima SV","year":2024,"status":"In Transit","expected":"Oct 15, 2024","orderType":"Customer","createdAt":{"$$date":1775054343236},"_id":"piMhjLaSW5ARxuyA"}
+{"id":"VIN-1FTFW1E85N","make":"Ford","model":"F-150 Lariat 4x4","year":2024,"status":"Delivered","expected":"Oct 01, 2024","orderType":"Stock","createdAt":{"$$date":1775054343236},"_id":"tjWJYfT6V04knqdb"}
+{"id":"VIN-1G1YC2D44P","make":"Chevrolet","model":"Corvette Stingray","year":2024,"status":"In Transit","expected":"Oct 20, 2024","orderType":"Customer","createdAt":{"$$date":1775054343236},"_id":"tlPehAj3Xng9tKNy"}
