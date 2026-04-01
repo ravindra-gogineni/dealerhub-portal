@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Sensitive and local environment files
+.env
+backend/.env
+
+# Local database artifacts
+backend/data/*.db
